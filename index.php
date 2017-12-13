@@ -33,4 +33,4 @@ foreach ($nodes as $xNode) {
     echo "\n";
 }
 
-echo memory_get_usage();
+//echo memory_get_usage();
